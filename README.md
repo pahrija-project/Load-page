@@ -16,7 +16,7 @@ Add script at the end of body
 ...
     <script>
 
-    </script>
+    ‹/script›
 </body>
 
 Or
