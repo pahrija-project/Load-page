@@ -1,18 +1,18 @@
-Add jQuery at head 
+Tambahkan jQuery di <head>
 <head>
     ...
     <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
 </head>
 
-Add onload on body attribute
+Tambahkan atribut onload 
 <body onload="Load()">
 
-Add div with id (e.g. Load)
+Buat div dengan id (spt. Load)
 <div id="Load">
     <h1>Loading...</h1>
 </div>
 
-Add z-index at style
+Tambahkan z-index di style
 <style>
     #Load {
         z-index:1000;
@@ -20,18 +20,18 @@ Add z-index at style
     }
 </style>
 
-Add script at the end of body
+Buat <script> di ujung <body>
   ...
     <script>
 
     </script>
 </body>
 
-Or
+Atau dengan file,
 ...
     <script src="load.js"></script>
 </body>
 
-Fill the script with script that I've put on "load.js"
+Isi dengan script yang sudah saya berikan pada "load.js"
 
-Done
+Selesai
