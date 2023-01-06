@@ -4,7 +4,7 @@ Tambahkan jQuery di <head>
     <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
 </head>
 
-Tambahkan atribut onload 
+Tambahkan atribut onload pada <body>
 <body onload="Load()">
 
 Buat div dengan id (spt. Load)
