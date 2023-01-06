@@ -1,3 +1,9 @@
+Add jQuery at head 
+<head>
+    ...
+    <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+</head>
+
 Add onload on body attribute
 <body onload="Load()">
 
